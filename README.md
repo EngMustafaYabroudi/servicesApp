@@ -1,3 +1,32 @@
+## About Project
+This application is interesting. This company has a control panel in the application that contains an application for the user and another for the service provider. The company employs technicians and adds them to continue adding to the services provided by the company and the user chooses an ideal service for him and pays electronically.
+
+## Properties Project
+### dashboard(Company)
+- add service Provider (salary-work-phone-name-etc..)
+- CRUD product and catgories
+- show service provider salary
+- show compliment
+- show orders
+- block user
+- block service provider
+- other
+  
+### service Provider
+- show upcomming order in specific date
+- show history order in specific date
+- show profile
+- start and end services with report and change order status
+- other
+  
+### service Provider
+- show and edit profile
+- make order with vasi and paypal paymment and detement date
+- tow type of order 
+- notfiction when start order
+- show company offer
+- other
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
